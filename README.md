@@ -1,6 +1,4 @@
-# Insurance Claim Analysis
-
-## Lambda School AIMLDS1 Capstone Project
+# Insurance Claim Analysis - ## Lambda School AIMLDS1 Capstone Project
 
 ## Members:
 - [Joanne Jordan](https://github.com/jojordan3) 
